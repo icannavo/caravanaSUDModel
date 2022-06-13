@@ -1,6 +1,11 @@
-{
-  "membros": {
-    "id": "000000",
-    "name": "Administrador"
-  }
-}
+ {
+ 	"membros": {
+ 		"id": "000000",
+ 		"name": "",
+ 		"ala": "",
+ 		"estaca": "",
+ 		"email": "",
+ 		"validadeRecomendação": "true",
+ 		"NRM": "000-0000-0000"
+ 	}
+ }
